@@ -1,0 +1,126 @@
+
+.hambrger{
+    transition: all 600ms ease 0s;
+}
+
+.head-li>li:hover{
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    padding: 5px 10px;
+    transition: all 600ms ease 0s;
+}
+/* section2 */
+.Mobile-galaxy{
+    transition: all 600ms ease 0s;
+}
+
+
+.ul-Galaxy>li:hover{
+    border: 2px dotted black;
+    border-radius: 30px;
+    padding: 3px 6px;
+}
+.ul-Galaxy>li::after {
+    display: block;
+    content: "";
+    width: 100%;
+    height: 5px;
+    border-radius: 4px;
+    background-color: black;
+    margin-top: 1px;
+    transform: scaleX(0);
+    transition: all 400ms linear 0s;
+}
+
+.ul-Galaxy>li:hover::after {
+    transform: scaleX(1);
+
+}
+/* section3 */
+.Mobile-galaxy3{
+    transition: all 600ms ease 0s;
+}
+.ul-Galaxy3>li:hover{
+    border: 2px dotted black;
+    border-radius: 30px;
+    padding: 3px 6px;
+}
+.ul-Galaxy3>li::after {
+    display: block;
+    content: "";
+    width: 100%;
+    height: 5px;
+    border-radius: 4px;
+    background-color: black;
+    margin-top: 1px;
+    transform: scaleX(0);
+    transition: all 400ms linear 0s;
+}
+
+.ul-Galaxy3>li:hover::after {
+    transform: scaleX(1);
+
+}
+
+/* section4 */
+.Mobile-galaxy4{
+    transition: all 600ms ease 0s;
+}
+.ul-Galaxy4>li:hover{
+    border: 2px dotted black;
+    border-radius: 30px;
+    padding: 3px 6px;
+}
+.ul-Galaxy4>li::after {
+    display: block;
+    content: "";
+    width: 100%;
+    height: 5px;
+    border-radius: 4px;
+    background-color: black;
+    margin-top: 1px;
+    transform: scaleX(0);
+    transition: all 400ms linear 0s;
+}
+
+.ul-Galaxy4>li:hover::after {
+    transform: scaleX(1);
+
+}
+
+/* section5 */
+.Mobile-galaxy5{
+    transition: all 600ms ease 0s;
+}
+.ul-Galaxy5>li:hover{
+    border: 2px dotted black;
+    border-radius: 30px;
+    padding: 3px 6px;
+}
+.ul-Galaxy5>li::after {
+    display: block;
+    content: "";
+    width: 100%;
+    height: 5px;
+    border-radius: 4px;
+    background-color: black;
+    margin-top: 1px;
+    transform: scaleX(0);
+    transition: all 400ms linear 0s;
+}
+
+.ul-Galaxy5>li:hover::after {
+    transform: scaleX(1);
+
+}
+/* ------------------ */
+.main-text{
+    transition: all 400ms ease-out 0s;
+}
+
+.style-border{
+    border-top: 2px solid black;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(43, 42, 42);
+}
